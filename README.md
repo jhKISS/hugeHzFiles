@@ -43,7 +43,7 @@ My Collection of Frequently Used Files and Structures Focusted on Web Developmen
     date => '2015-05-29',
     type => 'CSS',
     name => 'normalize.css',
-    link => 'https://gist.github.com/1f186ea9a0b02ec9c4d3.git,
+    link => 'https://gist.github.com/jhKISS/2a2f19e2b4517c324eb2',
     source => 'https://github.com/necolas/normalize.css.git'
   }
   ```
