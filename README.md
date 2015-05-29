@@ -1,6 +1,7 @@
-### hugeHzFiles
-My Collection of Frequently Used Files and Structures Focusted on Web Development. There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a present folder and a gist - both reachabel with a link.
+## hugeHzFiles
+My Collection of Frequently Used Files and Structures Focusted on Web Development. There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a linked folder and/or a gist.
 
+<hr>
 ##### Pakage Manager List
   ```
   {
@@ -13,7 +14,7 @@ My Collection of Frequently Used Files and Structures Focusted on Web Developmen
     }
   }
   ```
-
+<hr>
 ##### Symfony2 Standard Composer Configuration
   ```
   {
@@ -24,21 +25,25 @@ My Collection of Frequently Used Files and Structures Focusted on Web Developmen
   }
   ```
 
+<hr>
 #### SQL to create a new database and database user 
     ```
     # 2015-05-29
     KEY='';
     PASSWORD='';
+    
     create database $KEY;
     grant all on $KEY.* to "$KEY"@'localhost' identified by "$PASSWORD";
     ```
-#### normalize.css
+
+<hr>
+##### normalize.css
   ```
   {
     date => '2015-05-29',
     type => 'CSS',
     name => 'normalize.css',
     link => 'https://gist.github.com/1f186ea9a0b02ec9c4d3.git,
-    source => 'ttps://github.com/necolas/normalize.css.git'
+    source => 'https://github.com/necolas/normalize.css.git'
   }
   ```
