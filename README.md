@@ -1,8 +1,10 @@
 ## hugeHzFiles
-My collection of frequently used files and structures focusted on web development. There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a linked folder and/or a gist.
+#### My collection of frequently used files and structures focusted on web development, Symfony2, Eclipse and Linux
+There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a linked folder and/or a gist.
 
 <hr>
 ##### Pakage Manager List
+Pre-work with a deployment generator in mind.
   ```
   {
     date => '2015-05-29',
@@ -19,14 +21,16 @@ My collection of frequently used files and structures focusted on web developmen
   ```
   {
     date => '2015-05-29',
-    type => 'JSON',
-    name => 'composer.json',
-    link => 'https://gist.github.com/1f186ea9a0b02ec9c4d3.git
+    subject => 'Symfony2 Standard Composer Configuration',
+    link => 'https://jhKISS.github.io/hugeHzFiles/symfony2StandardComposerConfiguration,
+    type => 'folder'
   }
   ```
 
 <hr>
-##### SQL to create a new database and database user 
+##### SQL to create a new database and database user
+Maximum simple ...
+
     ```
     # 2015-05-29
     KEY='';
@@ -59,7 +63,6 @@ My collection of frequently used files and structures focusted on web developmen
       'COPYING',
       'README.md'
     },
-    link => 'https://gist.github.com/ba1b5e440a5f2a3f357b',
     source => 'http://dl.google.com/closure-compiler/compiler-latest.zip'
   }
   ```
@@ -67,21 +70,16 @@ My collection of frequently used files and structures focusted on web developmen
 <table>
   <tr>
     <td>
-      Clone:
-    </td><td>
-      git clone https://gist.github.com/ba1b5e440a5f2a3f357b.git
-    </td>
-  </tr><tr>
-    <td>
-      Link:
-    </td><td>
-      https://gist.github.com/ba1b5e440a5f2a3f357b
-    </td>
-  </tr><tr>
-    <td>
       Source:
     </td><td>
       http://dl.google.com/closure-compiler/compiler-latest.zip
+    </td>
+  </tr><tr>
+    <td>
+      Symfony2:
+    </td><td>
+      %kernel.root_dir%/Resources/java/compiler.jar<br>
+      app/config/config.yml
     </td>
   </tr>
 </table>
