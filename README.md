@@ -59,7 +59,13 @@ My collection of frequently used files and structures focusted on web developmen
       'COPYING',
       'README.md'
     },
-    link => 'https://gist.github.com/ba1b5e440a5f2a3f357b.git',
-    source => ['http://dl.google.com/closure-compiler/compiler-latest.zip'](http://dl.google.com/closure-compiler/compiler-latest.zip)
+    link => 'https://gist.github.com/ba1b5e440a5f2a3f357b',
+    source => 'http://dl.google.com/closure-compiler/compiler-latest.zip'
   }
   ```
+Clone:<br>
+  ```
+git clone https://gist.github.com/ba1b5e440a5f2a3f357b.git
+  ```
+Link: [https://gist.github.com/ba1b5e440a5f2a3f357b](https://gist.github.com/ba1b5e440a5f2a3f357b)
+Source: [http://dl.google.com/closure-compiler/compiler-latest.zip](http://dl.google.com/closure-compiler/compiler-latest.zip)
