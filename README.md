@@ -69,9 +69,7 @@ My collection of frequently used files and structures focusted on web developmen
     <td>
       Clone:
     </td><td>
-      ```
       git clone https://gist.github.com/ba1b5e440a5f2a3f357b.git
-      ```
     </td>
   </tr><tr>
     <td>
