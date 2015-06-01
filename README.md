@@ -60,6 +60,6 @@ My collection of frequently used files and structures focusted on web developmen
       'README.md'
     },
     link => 'https://gist.github.com/ba1b5e440a5f2a3f357b.git',
-    source => '[http://dl.google.com/closure-compiler/compiler-latest.zip](http://dl.google.com/closure-compiler/compiler-latest.zip)'
+    source => ['http://dl.google.com/closure-compiler/compiler-latest.zip'](http://dl.google.com/closure-compiler/compiler-latest.zip)
   }
   ```
