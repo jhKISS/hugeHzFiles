@@ -1,5 +1,5 @@
 ## hugeHzFiles
-My Collection of Frequently Used Files and Structures Focusted on Web Development. There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a linked folder and/or a gist.
+My collection of frequently used files and structures focusted on web development. There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a linked folder and/or a gist.
 
 <hr>
 ##### Pakage Manager List
@@ -45,5 +45,21 @@ My Collection of Frequently Used Files and Structures Focusted on Web Developmen
     name => 'normalize.css',
     link => 'https://gist.github.com/jhKISS/2a2f19e2b4517c324eb2',
     source => 'https://github.com/necolas/normalize.css.git'
+  }
+  ```
+
+<hr>
+##### compiler.jar
+  ```
+  {
+    date => '2015-06-01',
+    name => 'compiler.jar',
+    files {
+      'compiler.jar',
+      'COPYING',
+      'README.md'
+    },
+    link => 'https://gist.github.com/ba1b5e440a5f2a3f357b.git',
+    source => 'http://dl.google.com/closure-compiler/compiler-latest.zip'
   }
   ```
