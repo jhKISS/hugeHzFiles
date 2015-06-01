@@ -67,5 +67,12 @@ Clone:<br>
   ```
 git clone https://gist.github.com/ba1b5e440a5f2a3f357b.git
   ```
-Link: [https://gist.github.com/ba1b5e440a5f2a3f357b](https://gist.github.com/ba1b5e440a5f2a3f357b)
-Source: [http://dl.google.com/closure-compiler/compiler-latest.zip](http://dl.google.com/closure-compiler/compiler-latest.zip)
+<table><tr><td>
+  Link:
+</td><td>
+  [https://gist.github.com/ba1b5e440a5f2a3f357b](https://gist.github.com/ba1b5e440a5f2a3f357b)
+</td></tr><tr><td>
+  Source:
+</td><td>
+  [http://dl.google.com/closure-compiler/compiler-latest.zip](http://dl.google.com/closure-compiler/compiler-latest.zip)
+</td></tr></table>
