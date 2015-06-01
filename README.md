@@ -91,7 +91,7 @@ Maximum simple ...
     date => '2015-06-01',
     subject => 'yuicompressor-${version}.jar',
     source => 'https://github.com/yui/yuicompressor',
-    link => 'https://github.com/jhKISS/hugeHzFiles/tree/master/yuicompressor,
+    link => 'https://github.com/jhKISS/hugeHzFiles/tree/master/yuicompressor',
     type => 'folder'
   }
   ```
@@ -100,7 +100,7 @@ Maximum simple ...
   ```
   {
     date => '2015-06-01',
-    link => 'https://github.com/jhKISS/hugeHzFiles/tree/master/dummyImageGenerator,
+    link => 'https://github.com/jhKISS/hugeHzFiles/tree/master/dummyImageGenerator',
     type => 'folder'
   }
   ```
