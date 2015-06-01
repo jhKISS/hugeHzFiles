@@ -40,6 +40,7 @@ createF() {
 			"sensio/distribution-bundle" : "~2.3",
 			"sensio/framework-extra-bundle" : "~3.0,>=3.0.2",
 			"sensio/generator-bundle" : "~2.3",
+			"components/jquery": "1.11.*",
 			"incenteev/composer-parameter-handler" : "~2.0",
 			"friendsofsymfony/user-bundle" : "1.3.5"
 		},

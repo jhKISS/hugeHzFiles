@@ -47,7 +47,7 @@ Maximum simple ...
     date => '2015-05-29',
     type => 'CSS',
     name => 'normalize.css',
-    link => 'https://gist.github.com/jhKISS/2a2f19e2b4517c324eb2',
+    link => 'https://jhKISS.github.io/hugeHzFiles/normalize/normalize.css',
     source => 'https://github.com/necolas/normalize.css.git'
   }
   ```
@@ -83,3 +83,25 @@ Maximum simple ...
     </td>
   </tr>
 </table>
+<hr>
+
+##### yuicompressor
+  ```
+  {
+    date => '2015-06-01',
+    subject => 'yuicompressor-${version}.jar',
+    source => 'https://github.com/yui/yuicompressor',
+    link => 'https://jhKISS.github.io/hugeHzFiles/yuicompressor,
+    type => 'folder'
+  }
+  ```
+
+##### Dummy Image Generator
+  ```
+  {
+    date => '2015-06-01',
+    link => 'https://jhKISS.github.io/hugeHzFiles/dummyImageGenerator,
+    type => 'folder'
+  }
+  ```
+
