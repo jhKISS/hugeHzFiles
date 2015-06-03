@@ -1,6 +1,6 @@
 ## hugeHzFiles
 #### My collection of frequently used files and structures focusted on web development, Symfony2, Eclipse and Linux
-There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a linked folder and/or a gist.
+There is no restriction in the data type. The usefullness decides. The snippets presentation is done simple, short and usefull in pseudo code. If necessary, files will be in a linked folder and/or a gist!
 
 <hr>
 ##### Pakage Manager List
